@@ -57,4 +57,19 @@ This project is a Django-based user signup system with role-based redirection an
 
 8. Open your browser and navigate to `http://127.0.0.1:8000`.
 
+## Usage
+- Register a new account.
+- Log in using your credentials.
+- Access and update your user profile.
+
+## Contribution
+Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+Feel free to reach out with any questions or suggestions!
+
 
