@@ -1,0 +1,11 @@
+{% extends 'users/base.html' %}
+
+{% block title %}Main Admin Dashboard{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1>Welcome, {{ user.username }}</h1>
+    <p>You are logged in as a Main Admin.</p>
+    <a href="{% url 'logout' %}" class="btn btn-danger">Logout</a>
+</div>
+{% endblock %}
